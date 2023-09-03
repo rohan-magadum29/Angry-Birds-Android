@@ -1,0 +1,2064 @@
+fileFormatVersion: 2
+guid: aa308f60fe1c491419cc6b0322499f38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5439291410248807841
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_0
+  - first:
+      213: -1095776996643579417
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_1
+  - first:
+      213: -34691116733595430
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_2
+  - first:
+      213: -9161730750414671966
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_3
+  - first:
+      213: 7333000546586228971
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_4
+  - first:
+      213: -6282611541240161615
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_5
+  - first:
+      213: 4767876542149490249
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_6
+  - first:
+      213: 4800846859147300133
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_7
+  - first:
+      213: -3524227207624086034
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_8
+  - first:
+      213: 7554539155705698630
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_9
+  - first:
+      213: -5942750605332645520
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_10
+  - first:
+      213: -5894589989357643946
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_11
+  - first:
+      213: 855105520499582986
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_12
+  - first:
+      213: 3306732864033786981
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_13
+  - first:
+      213: -1666263553685507833
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_14
+  - first:
+      213: -6145912543887013254
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_15
+  - first:
+      213: -430800082612356560
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_16
+  - first:
+      213: -4948522988371003294
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_17
+  - first:
+      213: -6084222937128232538
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_18
+  - first:
+      213: -2503302229386103478
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_19
+  - first:
+      213: -6342375092322605917
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_20
+  - first:
+      213: 7580819967136783130
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_21
+  - first:
+      213: -4151276056495129157
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_22
+  - first:
+      213: -7851605911715333133
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_23
+  - first:
+      213: -9029153052865239631
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_24
+  - first:
+      213: -1129692383783034154
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_25
+  - first:
+      213: -5550855168551770720
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_26
+  - first:
+      213: 3967325185621921844
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_27
+  - first:
+      213: -65428589463778460
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_28
+  - first:
+      213: 4546850475778335373
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_29
+  - first:
+      213: 8247812815332692637
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_30
+  - first:
+      213: 5995127853844481939
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_31
+  - first:
+      213: 4037827036892030679
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_32
+  - first:
+      213: -8614954805806596310
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_33
+  - first:
+      213: 5668640150855459440
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_34
+  - first:
+      213: -1613375687876422171
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_35
+  - first:
+      213: -7968739702620150430
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_36
+  - first:
+      213: 5493820595600479246
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_37
+  - first:
+      213: 1675157500111602384
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_38
+  - first:
+      213: 4545955988464020848
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_39
+  - first:
+      213: 7672436935846799936
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_40
+  - first:
+      213: 8394579724610493782
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_41
+  - first:
+      213: 7806678598823191777
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_42
+  - first:
+      213: 6865930293357023414
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_43
+  - first:
+      213: 480681436391041385
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_44
+  - first:
+      213: -5283307513892138547
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_45
+  - first:
+      213: -8975826628641235571
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_46
+  - first:
+      213: 5806281897794805890
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_47
+  - first:
+      213: -7638440836269708877
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_48
+  - first:
+      213: 4193701946753568974
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_49
+  - first:
+      213: -8531275697280526550
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_50
+  - first:
+      213: -9031422369635989057
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_51
+  - first:
+      213: 2457552470326319718
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_52
+  - first:
+      213: -3446762013850537604
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_53
+  - first:
+      213: 1512850230101363301
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_54
+  - first:
+      213: -5079367529701880492
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_55
+  - first:
+      213: -1909542980335558896
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_56
+  - first:
+      213: 9117807792025688704
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_57
+  - first:
+      213: 8402114812117285031
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_58
+  - first:
+      213: -7591501767791419570
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_59
+  - first:
+      213: 6322136234986278858
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_60
+  - first:
+      213: 3595096460919491232
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_61
+  - first:
+      213: -4185967717306050112
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_62
+  - first:
+      213: -5592888126837891671
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_63
+  - first:
+      213: 4062184581099763770
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_64
+  - first:
+      213: 4735089072274380409
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_65
+  - first:
+      213: 7594476687236132135
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_66
+  - first:
+      213: -6929531814044349670
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_67
+  - first:
+      213: -7214794721886481986
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_68
+  - first:
+      213: -1993765203430243411
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_69
+  - first:
+      213: 1780257564895139727
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_70
+  - first:
+      213: -1108039165343250316
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_71
+  - first:
+      213: -5522398189478544274
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_72
+  - first:
+      213: 1005722194983093206
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_73
+  - first:
+      213: 4041496457188633839
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_74
+  - first:
+      213: -6301397715559829109
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_75
+  - first:
+      213: 2110164490681239739
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_76
+  - first:
+      213: 1715011627367056615
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_77
+  - first:
+      213: 150280748301448391
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_78
+  - first:
+      213: 9221210605925206877
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_79
+  - first:
+      213: -3965129236492487645
+    second: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 687
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a494ee741c384b0800000000000000
+      internalID: -5439291410248807841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 687
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d30290a40bc0f0800000000000000
+      internalID: -1095776996643579417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 690
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad08b36fc90c48ff0800000000000000
+      internalID: -34691116733595430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 691
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa2c56c6efad080800000000000000
+      internalID: -9161730750414671966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 691
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8740d252d04c560800000000000000
+      internalID: 7333000546586228971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 693
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5c96071eafc8a0800000000000000
+      internalID: -6282611541240161615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 698
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946fcbb2476ea2240800000000000000
+      internalID: 4767876542149490249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 591
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d468c48c800a240800000000000000
+      internalID: 4800846859147300133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 591
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedaccdd60e671fc0800000000000000
+      internalID: -3524227207624086034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 592
+        width: 142
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491e91265d17d860800000000000000
+      internalID: 7554539155705698630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 595
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f86c7fcb178da0800000000000000
+      internalID: -5942750605332645520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 596
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65793c3b2a5323ea0800000000000000
+      internalID: -5894589989357643946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 633
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086adab0f1fddb00800000000000000
+      internalID: 855105520499582986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 602
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c08df1500e3ed20800000000000000
+      internalID: 3306732864033786981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 152
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701356c402e30e8e0800000000000000
+      internalID: -1666263553685507833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 501
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4ff09a1555baa0800000000000000
+      internalID: -6145912543887013254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 501
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7eaa7b9d750af0800000000000000
+      internalID: -430800082612356560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 501
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ba4b7f80535bb0800000000000000
+      internalID: -4948522988371003294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 502
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9103a697f709ba0800000000000000
+      internalID: -6084222937128232538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 502
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457ffba2eb724dd0800000000000000
+      internalID: -2503302229386103478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 564
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a463d5f47b5bf7a0800000000000000
+      internalID: -6342375092322605917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 538
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b506f589b743960800000000000000
+      internalID: 7580819967136783130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 513
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf508cb64b366c0800000000000000
+      internalID: -4151276056495129157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb9dbd50e790390800000000000000
+      internalID: -7851605911715333133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 415
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5655d032102b280800000000000000
+      internalID: -9029153052865239631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e52723c68250f0800000000000000
+      internalID: -1129692383783034154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 417
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a4d642a667f2b0800000000000000
+      internalID: -5550855168551770720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 420
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430947d8c35ce0730800000000000000
+      internalID: 3967325185621921844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_28
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 420
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4bd66b0d871ff0800000000000000
+      internalID: -65428589463778460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 421
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82659fda68a91f30800000000000000
+      internalID: 4546850475778335373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 469
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92d1d78e0e167270800000000000000
+      internalID: 8247812815332692637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 440
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397437ff409f23350800000000000000
+      internalID: 5995127853844481939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 416
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6ea66fb4e390830800000000000000
+      internalID: 4037827036892030679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7ad38f38817880800000000000000
+      internalID: -8614954805806596310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a147fe2e0bae40800000000000000
+      internalID: 5668640150855459440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 329
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5dfd22c532c99e0800000000000000
+      internalID: -1613375687876422171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26526cde579596190800000000000000
+      internalID: -7968739702620150430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 337
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04dd7469b8fd3c40800000000000000
+      internalID: 5493820595600479246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 344
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cbf8feda5f3710800000000000000
+      internalID: 1675157500111602384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 346
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d25f0d2ea761f30800000000000000
+      internalID: 4545955988464020848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_40
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a2cba2eb8f97a60800000000000000
+      internalID: 7672436935846799936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 347
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dda1c78c98f7470800000000000000
+      internalID: 8394579724610493782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42086f2d4e65c60800000000000000
+      internalID: 7806678598823191777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 244
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0932c793fa84f50800000000000000
+      internalID: 6865930293357023414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 263
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969663a3839bba600800000000000000
+      internalID: 480681436391041385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 269
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc19e4beecbeda6b0800000000000000
+      internalID: -5283307513892138547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 270
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd85abc357f6380800000000000000
+      internalID: -8975826628641235571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_47
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 271
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28027df7f9e049050800000000000000
+      internalID: 5806281897794805890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_48
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 271
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96e44978ecef590800000000000000
+      internalID: -7638440836269708877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 311
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05c1e83b5033a30800000000000000
+      internalID: 4193701946753568974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27dba634f1da9980800000000000000
+      internalID: -8531275697280526550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb984519431f9a280800000000000000
+      internalID: -9031422369635989057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 159
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1faa73fafa1220800000000000000
+      internalID: 2457552470326319718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f02bc534aa20d0800000000000000
+      internalID: -3446762013850537604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 207
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a4f83d449bef410800000000000000
+      internalID: 1512850230101363301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_55
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 207
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d4774b4267289b0800000000000000
+      internalID: -5079367529701880492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_56
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 207
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f12cdc6c0ff75e0800000000000000
+      internalID: -1909542980335558896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_57
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 207
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08adafde0e5f88e70800000000000000
+      internalID: 9117807792025688704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 208
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a87c42c7ee4a9470800000000000000
+      internalID: 8402114812117285031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 137
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fda0b1d5195a690800000000000000
+      internalID: -7591501767791419570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 145
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf8bfbd86dbcb750800000000000000
+      internalID: 6322136234986278858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 146
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aace5efe2954e130800000000000000
+      internalID: 3595096460919491232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_62
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 148
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c958b01a8478e5c0800000000000000
+      internalID: -4185967717306050112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_63
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 165
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add35b81e11262b0800000000000000
+      internalID: -5592888126837891671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383588aa57cf5830800000000000000
+      internalID: 4062184581099763770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9769fb47c6a66b140800000000000000
+      internalID: 4735089072274380409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 93
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de1bd4f40056960800000000000000
+      internalID: 7594476687236132135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_67
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 83
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4e14878b55df90800000000000000
+      internalID: -6929531814044349670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_68
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 85
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d7921d66efdb90800000000000000
+      internalID: -7214794721886481986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_69
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 90
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da381046c19b454e0800000000000000
+      internalID: -1993765203430243411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_70
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 109
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d644b2deb4b810800000000000000
+      internalID: 1780257564895139727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ce70ff347f90f0800000000000000
+      internalID: -1108039165343250316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cfed70b108c53b0800000000000000
+      internalID: -5522398189478544274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 21
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d381bef10b05fd00800000000000000
+      internalID: 1005722194983093206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_74
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 32
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6ab37d97461830800000000000000
+      internalID: 4041496457188633839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_75
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 44
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813997f920fc88a0800000000000000
+      internalID: -6301397715559829109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_76
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 66
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c2b49c6fc84d10800000000000000
+      internalID: 2110164490681239739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c0e21df1fcc710800000000000000
+      internalID: 1715011627367056615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4761b5b87e51200800000000000000
+      internalID: 150280748301448391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_79
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8c35a03258ff70800000000000000
+      internalID: 9221210605925206877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_angry-birds-rio-angry-birds-space-angry-birds-seasons-angry-birds-star-wars-angry-birds-2_80
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 12
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247952b7f709f8c0800000000000000
+      internalID: -3965129236492487645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
