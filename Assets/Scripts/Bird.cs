@@ -71,6 +71,6 @@ public class Bird : MonoBehaviour
     }
     void Update()
     {
-        
+        //
     }
 }
