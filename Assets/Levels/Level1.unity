@@ -2760,6 +2760,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4550912795191014002, guid: ec45d902d7f28d14b9961cf0fa11cf1e, type: 3}
+      propertyPath: trajectoryDot
+      value: 
+      objectReference: {fileID: 5596601060469695279, guid: a2a2cb15077ff084695095bbf6a4e763, type: 3}
+    - target: {fileID: 4550912795191014002, guid: ec45d902d7f28d14b9961cf0fa11cf1e, type: 3}
+      propertyPath: numberOfPoints
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550912795191014002, guid: ec45d902d7f28d14b9961cf0fa11cf1e, type: 3}
+      propertyPath: trajectoryPoints.Array.size
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 4550912795191014006, guid: ec45d902d7f28d14b9961cf0fa11cf1e, type: 3}
       propertyPath: m_Sprite
       value: 

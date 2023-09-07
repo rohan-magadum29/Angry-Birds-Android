@@ -13,6 +13,10 @@ public class Bird : MonoBehaviour
     public bool isFired = false;
     public AudioSource slingshotSound;
     public AudioSource flyingSound;
+    public GameObject trajectoryDot;
+    public GameObject[] trajectoryPoints;
+    public int numberOfPoints = 10;
+    private Vector2 direction;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +24,7 @@ public class Bird : MonoBehaviour
         rb.isKinematic = true;
         sp = GetComponent<SpriteRenderer>();
         startPos = transform.position;
+        trajectoryPoints = new GameObject[numberOfPoints];
     }
 
     // Update is called once per frame
@@ -28,9 +33,14 @@ public class Bird : MonoBehaviour
         sp.color = Color.red;
         isFired = false;
         slingshotSound.Play();
+        for (int i = 0; i < numberOfPoints; i++)
+        {
+            trajectoryPoints[i] = Instantiate(trajectoryDot, gameObject.transform.position, Quaternion.identity);
+        }
     }
     private void OnMouseDrag()
     {
+        DrawTrajectory();
         isFired = false;
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector2 desiredPos = mousePosition;
@@ -48,12 +58,13 @@ public class Bird : MonoBehaviour
     {
         isFired = true;
         Vector2 currentPos = transform.position;
-        Vector2 direction = startPos - currentPos;
+        direction = startPos - currentPos;
         rb.isKinematic = false;
         direction = direction * 0.75f;
         rb.AddForce(direction * Force);
         sp.color = Color.white;
         flyingSound.Play();
+        DisableTrajectory();
         StartCoroutine(ResetBird(5));
     }
     
@@ -66,8 +77,28 @@ public class Bird : MonoBehaviour
         isFired = false;
         LevelManager.DecrementBirdCount();
     }
-    void Update()
+    private void DrawTrajectory()
     {
-        //
+        for(int i = 0; i < numberOfPoints; i++)
+        {
+            trajectoryPoints[i].transform.position = CalculatePosition(i * 0.1f);
+        }
+    }
+    private void DisableTrajectory()
+    {
+        for(int i = 0; i < numberOfPoints;i++)
+        {
+            Destroy(trajectoryPoints[i]);
+        }
+    }
+    // s = ut + 0.5gt2
+    private Vector2 CalculatePosition(float interval)
+    {
+        Vector2 position = startPos + (-initialVelocity * 10) * interval;
+
+        // Adjust the position for gravity (assuming Physics2D.gravity is a Vector2)
+        position += 0.5f * Physics2D.gravity * interval * interval;
+
+        return position;
     }
 }
