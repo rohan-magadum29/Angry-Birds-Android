@@ -141,6 +141,9 @@ MonoBehaviour:
   isFired: 0
   slingshotSound: {fileID: 5578751303131112912}
   flyingSound: {fileID: 374759580971203585}
+  trajectoryDot: {fileID: 5596601060469695279, guid: a2a2cb15077ff084695095bbf6a4e763, type: 3}
+  trajectoryPoints: []
+  numberOfPoints: 10
 --- !u!82 &5578751303131112912
 AudioSource:
   m_ObjectHideFlags: 0

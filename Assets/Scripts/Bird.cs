@@ -94,7 +94,7 @@ public class Bird : MonoBehaviour
     // s = ut + 0.5gt2
     private Vector2 CalculatePosition(float interval)
     {
-        Vector2 position = startPos + (-initialVelocity * 10) * interval;
+        Vector2 position = startPos + (-initialVelocity * 9) * interval;
 
         // Adjust the position for gravity (assuming Physics2D.gravity is a Vector2)
         position += 0.5f * Physics2D.gravity * interval * interval;
