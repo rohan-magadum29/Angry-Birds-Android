@@ -49,8 +49,8 @@ public class Bird : MonoBehaviour
         isFired = true;
         Vector2 currentPos = transform.position;
         Vector2 direction = startPos - currentPos;
-        direction.Normalize();
         rb.isKinematic = false;
+        direction = direction * 0.75f;
         rb.AddForce(direction * Force);
         sp.color = Color.white;
         flyingSound.Play();

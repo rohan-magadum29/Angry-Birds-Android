@@ -25,6 +25,7 @@ public class LevelManager : MonoBehaviour
     }
     private void Update()
     {
+        print(pigCount);
         if(pigCount <=0)
         {
             levelEndPanel.SetActive(true);
@@ -32,6 +33,7 @@ public class LevelManager : MonoBehaviour
             levelText.text = "You Won";
             birdCount = 3;
             levelWinSound.enabled = true;
+            UnlockNewLevel();
         }
         if(birdCount <= 0 )
         {
@@ -51,6 +53,10 @@ public class LevelManager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex );
     }
+    public void LoadMenu()
+    {
+        SceneManager.LoadScene(1);
+    }
     public static void DecrementPigCount()
     {
         pigCount--;
@@ -59,7 +65,15 @@ public class LevelManager : MonoBehaviour
     {
         birdCount--;
     }
-
+    void UnlockNewLevel()
+    {
+        if (SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
+        {
+            PlayerPrefs.SetInt("ReachedIndex", SceneManager.GetActiveScene().buildIndex + 1);
+            PlayerPrefs.SetInt("UnlockedLevel", PlayerPrefs.GetInt("UnlockedLevel", 1) + 1);
+            PlayerPrefs.Save();
+        }
+    }
     // Update is called once per frame
-    
+
 }

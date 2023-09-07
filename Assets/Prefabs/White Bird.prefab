@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Force: 900
-  maxDragDistance: 3
+  maxDragDistance: 2
   isFired: 0
   slingshotSound: {fileID: 5578751303131112912}
   flyingSound: {fileID: 374759580971203585}
