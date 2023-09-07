@@ -10,6 +10,7 @@ public class Piggy : MonoBehaviour
     private int health = 100;
     public AudioSource[] PiggySounds;
     public AudioSource PiggyDestroyed;
+    public AudioSource PiggyInjured;
     void Start()
     {
         sp = GetComponent<SpriteRenderer>();
@@ -34,12 +35,15 @@ public class Piggy : MonoBehaviour
     public void Injure()
     {
         sp.sprite = injuredSprite;//Changing the sprite of the piggy
+        PiggyInjured.Play();
     }
     private void Die()
     {
         LevelManager.DecrementPigCount();
         PiggyDestroyed.Play();
-        gameObject.SetActive(false);//Disabling the piggy gameobject
+        gameObject.GetComponent<SpriteRenderer>().enabled = false;
+        gameObject.GetComponent<Collider2D>().enabled = false;
+        Destroy(gameObject,2);
     }
 
     private void DamageAfterCollision(Collision2D collision)

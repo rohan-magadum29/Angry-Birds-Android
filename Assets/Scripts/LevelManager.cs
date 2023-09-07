@@ -11,19 +11,27 @@ public class LevelManager : MonoBehaviour
     public GameObject levelEndPanel;
     private Text levelText;
     public Button nextButton;
+    public AudioSource levelWinSound;
+    public AudioSource levelLoseSound;
     void Start()
     {
         pigCount = FindObjectsOfType<Piggy>().Length;
         levelEndPanel.SetActive(false);
         levelText = levelEndPanel.GetComponentInChildren<Text>();
+        levelWinSound = levelEndPanel.GetComponents<AudioSource>()[0];
+        levelLoseSound = levelEndPanel.GetComponents<AudioSource>()[1];
+        levelWinSound.enabled = false;
+        levelLoseSound.enabled = false;
     }
     private void Update()
     {
         if(pigCount <=0)
         {
-            //LoadNextLevel();
             levelEndPanel.SetActive(true);
+            nextButton.enabled = true;
             levelText.text = "You Won";
+            birdCount = 3;
+            levelWinSound.enabled = true;
         }
         if(birdCount <= 0 )
         {
@@ -31,7 +39,7 @@ public class LevelManager : MonoBehaviour
             nextButton.enabled = false;
             levelText.text = "You Lose";
             birdCount = 3;
-
+            levelLoseSound.enabled = true;
         }
     }
     public void LoadNextLevel()

@@ -8,11 +8,11 @@ public class Bird : MonoBehaviour
     private SpriteRenderer sp;
     private Vector2 startPos;
     public float Force;
+    private Vector2 initialVelocity;
     public float maxDragDistance;
     public bool isFired = false;
     public AudioSource slingshotSound;
     public AudioSource flyingSound;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -34,6 +34,7 @@ public class Bird : MonoBehaviour
         isFired = false;
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector2 desiredPos = mousePosition;
+        initialVelocity = desiredPos - startPos;
         float distance = Vector2.Distance(desiredPos, startPos);
         if(distance > maxDragDistance)
         {
@@ -41,10 +42,6 @@ public class Bird : MonoBehaviour
             direction.Normalize();
             desiredPos = startPos + (direction * maxDragDistance);
         }
-        /*if(desiredPos.x > startPos.x)
-        {
-            desiredPos.x = startPos.x;
-        }*/
         transform.position = desiredPos;
     }
     private void OnMouseUp()
