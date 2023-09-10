@@ -31,6 +31,7 @@ public class Exploder : MonoBehaviour
                     gameObject.GetComponent<Exploder>().enabled = false;
                     gameObject.GetComponent<BoxCollider2D>().enabled = false;
                     gameObject.GetComponent<SpriteRenderer>().enabled = false;
+                    Destroy(gameObject, 3);
                 }
             }
         }

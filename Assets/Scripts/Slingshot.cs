@@ -22,10 +22,7 @@ public class Slingshot : MonoBehaviour
         {
             line.SetPosition(1, BirdPos.position + offset);
         }
-        /*if(BirdPos.position.x <-3.5 && BirdPos.position.x > -10 && BirdPos.position.y < 1.5)
-        {
-            line.SetPosition(1, BirdPos.position + offset);
-        }*/
+        
         else
         {
             line.SetPosition(1, StartPos);

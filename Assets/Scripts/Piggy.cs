@@ -48,9 +48,7 @@ public class Piggy : MonoBehaviour
 
     private void DamageAfterCollision(Collision2D collision)
     {
-        Bird bird = collision.gameObject.GetComponent<Bird>();//Find whether the gameobject we collided is Bird
-
-        if (bird != null)
+        if (collision.gameObject.CompareTag("Player"))
         {
             health = health - 100;
             Die();

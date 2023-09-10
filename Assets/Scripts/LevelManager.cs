@@ -25,12 +25,12 @@ public class LevelManager : MonoBehaviour
     }
     private void Update()
     {
-        print(pigCount);
         if(pigCount <=0)
         {
             levelEndPanel.SetActive(true);
             nextButton.enabled = true;
             levelText.text = "You Won";
+            levelText.color = Color.white;
             birdCount = 3;
             levelWinSound.enabled = true;
             UnlockNewLevel();
@@ -39,6 +39,7 @@ public class LevelManager : MonoBehaviour
         {
             levelEndPanel.SetActive(true);
             nextButton.enabled = false;
+            levelText.color = Color.white;
             levelText.text = "You Lose";
             birdCount = 3;
             levelLoseSound.enabled = true;

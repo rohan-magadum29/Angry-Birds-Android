@@ -198,7 +198,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_LocalPosition.x
@@ -726,7 +726,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_LocalPosition.x
@@ -844,7 +844,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1059,7 +1059,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 75, y: 2.56}
+  m_Size: {x: 75, y: 2.6170287}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1073,11 +1073,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 885761420}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.11, y: -6.29, z: 0}
+  m_LocalPosition: {x: -0.1, y: -6.29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &938492220
 PrefabInstance:
@@ -2414,7 +2414,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 3847088894557673509, guid: 45fc771f4d13e6c4b9323369f7a09b10, type: 3}
       propertyPath: m_LocalPosition.x
